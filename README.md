@@ -1,7 +1,8 @@
-# Reverse Proxy with Nginx and Docker
+# 🚀 **Reverse Proxy with Nginx and Docker**
 
 ## Overview
 A reverse proxy is an essential component in modern application deployments. When combined with **Nginx** and **Docker**, it provides an efficient and scalable way to manage application traffic, ensuring security, load balancing, and seamless service management.
+
 
 ![banner](/images/nginx.gif)
 
@@ -35,4 +36,12 @@ With Docker Compose or Kubernetes, scaling Nginx alongside applications becomes 
 
 ## Conclusion
 A reverse proxy with **Nginx and Docker** provides a robust and flexible solution for modern applications. It enhances security, optimizes performance, and ensures seamless traffic management, making it an essential component in production-grade deployments.
+
+---
+
+## Author
+**T. S. Sundar Raj**
+
+## Thank You!
+
 
