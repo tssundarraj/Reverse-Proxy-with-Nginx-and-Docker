@@ -3,7 +3,7 @@
 ## Overview
 A reverse proxy is an essential component in modern application deployments. When combined with **Nginx** and **Docker**, it provides an efficient and scalable way to manage application traffic, ensuring security, load balancing, and seamless service management.
 
-![banner](/images/
+![banner](/images/nginx.gif)
 
 ## Problem Solved by a Reverse Proxy
 ### 1. **Efficient Traffic Routing**
